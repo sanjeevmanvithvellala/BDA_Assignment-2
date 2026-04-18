@@ -112,3 +112,46 @@ The objective of this project is to apply Big Data Analytics techniques to:
 
 1. Open the notebook in **Google Colab**
 2. Install PySpark:
+!pip install pyspark
+
+3. Upload datasets:
+- `creditcard.csv`
+- `Mall_Customers.csv`
+- `u.data`
+4. Run all cells sequentially  
+
+---
+
+## 📁 Project Structure
+📦 BDA-PySpark-Project
+┣ 📜 BDA_Assignment.ipynb
+┣ 📜 README.md
+┣ 📂 datasets/
+┃ ┣ creditcard.csv
+┃ ┣ Mall_Customers.csv
+┃ ┗ u.data
+
+
+---
+
+## 🎯 Learning Outcomes
+
+- Hands-on experience with PySpark MLlib  
+- Understanding of classification, clustering, and recommendation systems  
+- Working with real-world datasets  
+- Model evaluation and visualization techniques  
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how PySpark can be used for scalable machine learning tasks including classification, clustering, and recommendation systems, providing practical exposure to Big Data Analytics.
+
+---
+
+## 👨‍💻 Author
+
+- **Name:** V.Sanjeev Manvith 
+- **Course:** Big Data Analytics  
+- **Institution:** Chaitanya Bharathi Institute Of Technology
+- **Submitted To:** Yenigalla Pallavi
