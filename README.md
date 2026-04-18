@@ -123,13 +123,13 @@ The objective of this project is to apply Big Data Analytics techniques to:
 ---
 
 ## 📁 Project Structure
-📦 BDA-PySpark-Project /n
-┣ 📜 BDA_Assignment.ipynb /n
-┣ 📜 README.md  /n
-┣ 📂 datasets/  /n
-┃ ┣ creditcard.csv  /n
-┃ ┣ Mall_Customers.csv  /n
-┃ ┗ u.data /n
+📦 BDA-PySpark-Project   
+┣ 📜 BDA_Assignment.ipynb    
+┣ 📜 README.md       
+┣ 📂 datasets/     
+┃ ┣ creditcard.csv      
+┃ ┣ Mall_Customers.csv       
+┃ ┗ u.data     
 
 
 ---
